@@ -25,3 +25,9 @@ Illustrate key performance metrics of finacial information into a collection of 
     - Income statement KPIs
     - Balance sheet KPIs
     - Cashflow statement KPIs
+
+## Dashboard
+
+![screenshot](/sp500rating.gif "S&P 500 Rating Dashboard")
+
+[Tableau Public Dashboard](https://public.tableau.com/views/Book3_16649292527140/screener?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
